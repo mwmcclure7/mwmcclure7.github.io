@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.footer h3 {
+    margin: 0;
+}
+
+.footer a {
+    color: var(--text1);
+}
+
+.footer a:hover {
+    color: var(--text3);
+}
+
+.footer a {
+    margin: 20px 10px;
+}

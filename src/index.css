@@ -1,0 +1,92 @@
+:root {
+	/* Colors */
+	--bg1: rgb(0, 10, 20);
+	--bg2: rgb(0, 20, 40);
+	--bg3: rgb(0, 30, 60);
+	--bg4: rgb(0, 20, 10);
+	--bg5: rgb(0, 40, 20);
+	--bg6: rgb(0, 60, 30);
+
+	--text1: rgb(255, 255, 255);
+	--text2: rgb(0, 125, 250);
+	--text3: rgb(0, 250, 125);
+
+	/* Fonts */
+	--font-family: 'Ubuntu', sans-serif;
+	--font-size: 20px;
+	--fw1: 300;
+	--fw2: 400;
+	--fw3: 500;
+	--fw4: 700;
+	--lh1: 1.5;
+	
+	/* Timing */
+	--transition1: 0.3s;
+	--transition2: 0.6s;
+	--transition3: 0.9s;
+
+	/* Header */
+	--header-height: 50px;
+}
+
+
+html, body {
+	font-family: var(--font-family);
+	font-size: var(--font-size);
+	color: var(--text1);
+	font-weight: var(--fw1);
+	line-height: var(--lh1);
+	background: var(--bg1);
+	padding: 0;
+	margin: 0;
+}
+
+
+a {
+	color: var(--text2);
+	font-weight: var(--fw2);
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+a:hover {
+	color: var(--text3);
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: var(--fw3);
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 1.5rem;
+}
+
+h4 {
+	font-size: 1.25rem;
+}
+
+h5 {
+	font-size: 1.125rem;
+}
+
+h6 {
+	font-size: 1rem;
+}
+
+.app {
+	margin-top: var(--header-height);
+}
+
+@keyframes gradientAnimation {
+	0% { background-position: 0% 50%; }
+	100% { background-position: -300% 50%; }
+}

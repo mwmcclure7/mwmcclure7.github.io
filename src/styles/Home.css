@@ -1,0 +1,29 @@
+.profile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile div {
+    display: flex;
+    flex-direction: column;
+    margin: 0 100px;
+    text-align: justify;
+}
+
+.profile img {
+    height: 90vh;
+    width: 50vw;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 10% 100%);
+}
+
+.academics {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin: 100px;
+    padding: 100px;
+    background: var(--bg2);
+    border-radius: 20px;
+}
