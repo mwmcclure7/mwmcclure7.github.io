@@ -1,0 +1,78 @@
+.interest {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 100px;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.intro div {
+    margin-right: 50px;
+}
+
+.intro p {
+    text-align: justify;
+}
+
+.intro img {
+    max-height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.links a {
+    margin-right: 20px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    background: var(--bg2);
+    padding: 50px;
+    border-radius: 50px;
+    width: 100%;
+}
+
+.item div {
+    margin-right: 50px;
+}
+
+.item p {
+    text-align: justify;
+}
+
+.item img, .item iframe {
+    height: 450px;
+    width: 600px;
+    min-width: 600px;
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: center;
+    border: none;
+}

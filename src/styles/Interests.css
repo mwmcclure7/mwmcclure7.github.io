@@ -21,7 +21,7 @@
     padding: 50px 10px;
 }
 
-.sections div {
+.section {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -35,20 +35,21 @@
     height: 300px;
 }
 
-.sections div:hover {
+.section:hover {
     background: var(--bg5);
+    scale: 1.05;
 }
 
-.sections div img {
+.section img {
     height: 300px;
     min-width: 400px;
     width: 400px;
-    object-fit:cover;
+    object-fit: cover;
     object-position: center;
     border-radius: 20px;
 }
 
-.sections div div {
+.section div {
     flex-direction: column;
     text-align: left;
     align-items: flex-start;
@@ -56,8 +57,4 @@
     background: transparent;
     margin: 0;
     height: auto;
-}
-
-.sections div:hover div {
-    background: transparent;
 }

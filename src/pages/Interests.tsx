@@ -22,7 +22,7 @@ function Interests() {
                 </div>
             </div>
             <div className="sections">
-                <div onClick={() => window.location.href = '#edge'}>
+                <div className="section" onClick={() => window.location.href = '#edge'}>
                     <img src="EDGE Team.png" />
                     <div>
                         <h2>EDGE</h2>
@@ -33,7 +33,7 @@ function Interests() {
                         </p>
                     </div>
                 </div>
-                <div onClick={() => window.location.href = '#sensei'}>
+                <div className="section" onClick={() => window.location.href = '#sensei'}>
                     <div>
                         <h2>Sensei.AI</h2>
                         <p>
@@ -44,7 +44,7 @@ function Interests() {
                     </div>
                     <img src="sensei-screenshot.png" />
                 </div>
-                <div onClick={() => window.location.href = '#karate'}>
+                <div className="section" onClick={() => window.location.href = '#karate'}>
                     <img src="karate-promotion.jpg" />
                     <div>
                         <h2>Isshinryu Karate</h2>
@@ -56,7 +56,7 @@ function Interests() {
                         </p>
                     </div>
                 </div>
-                <div onClick={() => window.location.href = '#mtb'}>
+                <div className="section" onClick={() => window.location.href = '#mtb'}>
                     <div>
                         <h2>Mountain Biking</h2>
                         <p>
@@ -68,7 +68,7 @@ function Interests() {
                     </div>
                     <img src="mtb1.png" />
                 </div>
-                <div onClick={() => window.location.href = '#aerospace'}>
+                <div className="section" onClick={() => window.location.href = '#aerospace'}>
                     <img src="r4s-team.jpg" />
                     <div>
                         <h2>Aerospace</h2>
@@ -81,7 +81,7 @@ function Interests() {
                         </p>
                     </div>
                 </div>
-                <div onClick={() => window.location.href = '#robotics'}>
+                <div className="section" onClick={() => window.location.href = '#robotics'}>
                     <div>
                         <h2>Robotics</h2>
                         <p>
@@ -93,7 +93,7 @@ function Interests() {
                     </div>
                     <img src="robotics-driving.jpg" />
                 </div>
-                <div onClick={() => window.location.href = '#programming'}>
+                <div className="section" onClick={() => window.location.href = '#programming'}>
                     <img src="pong.png" />
                     <div>
                         <h2>Programming</h2>
@@ -105,9 +105,9 @@ function Interests() {
                         </p>
                     </div>
                 </div>
-                <div onClick={() => window.location.href = '#printing'}>
+                <div className="section" onClick={() => window.location.href = '#printing'}>
                     <div>
-                        <h2>CAD & 3D Printing</h2>
+                        <h2>3D Printing</h2>
                         <p>
                             After being immersed in the world of CAD as a
                             freshman, I used this knowledge to create numerous
@@ -119,7 +119,7 @@ function Interests() {
                     </div>
                     <img src="ThreadedTichuRender.JPG" />
                 </div>
-                <div onClick={() => window.location.href = '#video'}>
+                <div className="section" onClick={() => window.location.href = '#video'}>
                     <img src="exigimos.png" />
                     <div>
                         <h2>Video Editing</h2>
@@ -132,7 +132,7 @@ function Interests() {
                         </p>
                     </div>
                 </div>
-                <div onClick={() => window.location.href = '#volunteering'}>
+                <div className="section" onClick={() => window.location.href = '#volunteering'}>
                     <div>
                         <h2>Volunteering</h2>
                         <p>
