@@ -3,10 +3,10 @@ import Carousel from "../components/Carousel";
 
 function Aerospace() {
     const images = [
-        "r4s-team.jpg",
-        "rocket-launch.jpg",
         "r4saward.jpg",
+        "rocket-launch.jpg",
         "rocketbuild2.jpg",
+        "r4s-team.jpg",
         "buildingrocket.jpg",
         "fiberglassing.jpg",
         "workingelectronics.jpg",
@@ -140,7 +140,7 @@ function Aerospace() {
                             American Rocketry Challenge
                         </a>
                     </div>
-                    <img src="placeholder.jpg" />
+                    <img src="arc.jpg" />
                 </div>
             </div>
         </div>

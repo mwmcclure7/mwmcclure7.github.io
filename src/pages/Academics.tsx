@@ -382,7 +382,12 @@ function Academics() {
                             illumiLock CAD
                         </a>
                     </div>
-                    <video src="illumilock.mp4" controls></video>
+                    <iframe
+                        src="https://www.youtube.com/embed/8p9ZJp2yHoU?si=nj-oirkERR80V0_l"
+                        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerPolicy="strict-origin-when-cross-origin"
+                        allowFullScreen
+                    ></iframe>{" "}
                 </div>
                 <div className="item">
                     <div>
@@ -541,10 +546,12 @@ function Academics() {
                             shown the video to the other classes.
                         </p>
                     </div>
-                    <video
-                        src="Matthew McClure - Exigimos Music Video.mp4"
-                        controls
-                    ></video>
+                    <iframe
+                        src="https://www.youtube.com/embed/rQIuA9tCbdA?si=6RHO2-c5zNWfBYaJ"
+                        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerPolicy="strict-origin-when-cross-origin"
+                        allowFullScreen
+                    ></iframe>{" "}
                 </div>
                 <div className="item">
                     <div>
@@ -569,7 +576,12 @@ function Academics() {
                             credit for winning the competition.
                         </p>
                     </div>
-                    <video src="AP World History at NHS.mp4" controls></video>
+                    <iframe
+                        src="https://www.youtube.com/embed/GUDNUbLU9Xw?si=BSGeDn7rFMc2z_dz"
+                        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerPolicy="strict-origin-when-cross-origin"
+                        allowFullScreen
+                    ></iframe>{" "}
                 </div>
             </div>
         </div>
