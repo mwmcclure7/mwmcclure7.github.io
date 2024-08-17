@@ -2,6 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
+import Academics from "./pages/Academics";
 import Interests from "./pages/Interests";
 import Edge from "./pages/Edge";
 import Sensei from "./pages/Sensei";
@@ -11,7 +12,6 @@ import Aerospace from "./pages/Aerospace";
 import Robotics from "./pages/Robotics";
 import Programming from "./pages/Programming";
 import Printing from "./pages/Printing";
-import Video from "./pages/Video";
 import Volunteering from "./pages/Volunteering";
 
 function App() {
@@ -20,6 +20,7 @@ function App() {
             <Header />
             <Routes>
                 <Route path="/" element={<Home />} />
+                <Route path="/academics" element={<Academics />} />
                 <Route path="/interests" element={<Interests />} />
                 <Route path="/edge" element={<Edge />} />
                 <Route path="/sensei" element={<Sensei />} />
@@ -29,7 +30,6 @@ function App() {
                 <Route path="/robotics" element={<Robotics />} />
                 <Route path="/programming" element={<Programming />} />
                 <Route path="/printing" element={<Printing />} />
-                <Route path="/video" element={<Video />} />
                 <Route path="/volunteering" element={<Volunteering />} />
             </Routes>
             <Footer />

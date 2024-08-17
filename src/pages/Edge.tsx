@@ -18,18 +18,34 @@ function Edge() {
                 <div>
                     <h1>EDGE</h1>
                     <p>
-                        EDGE (Engineering and Design for Growth and Empowerment)
-                        is a club I founded at the Northville High School during
-                        my junior year. The goal of this club is to use
-                        student's STEM skills to make a meaningful impact on the
-                        community. Our club would work on a multitude of
-                        projects that would benefit the community in some way,
-                        ranging from cell phone sanitation devices to custom
-                        designed special-education activities. Keep in mind that
-                        the three projects listed below were accomplished in
-                        only our first year, and our impact on our community
-                        will continue to grow as our club becomes more
-                        established.
+                        I founded EDGE (Engineering and Design for Growth and
+                        Empowerment) in 2023 as a club at the Northville High
+                        School to provide students with a unique opportunity to
+                        gain invaluable STEM experience while actively
+                        addressing real-world challenges in our community.
+                        Through hands-on projects and community-focused
+                        initiatives, our members acquire practical
+                        problem-solving skills and deepen their understanding of
+                        STEM. Unlike other clubs, EDGE is singular in its
+                        dedication to harnessing the power of STEM for tangible
+                        social impact.
+                    </p>
+                    <p>
+                        Our mission is to empower students with the skills,
+                        knowledge, and mindset required to tackle real-world
+                        challenges through STEM-focused projects, hands-on
+                        experiences, and collaborative problem-solving. Our
+                        vision is to nurture the next generation of STEM leaders
+                        and innovators who leverage their expertise to create
+                        positive change in their communities and beyond. Our
+                        core values form the foundation of our club's culture
+                        and ethos. We prioritize innovation, collaboration, and
+                        ingenuity. We celebrate creativity, promote teamwork,
+                        and embrace a multitude of perspectives. Our driving
+                        force is the belief that STEM can create a positive
+                        impact, and we are committed to continuous learning,
+                        personal growth, and making a meaningful difference in
+                        our community.
                     </p>
                     <div className="links">
                         <a
@@ -56,26 +72,25 @@ function Edge() {
                     <div>
                         <h2>Interactive Trail Signage</h2>
                         <p>
-                            The trail signage project, along with the following
-                            two projects, was one of the first projects
-                            undertaken by our club. We learned that many of the
-                            new cross-country runners at our school would get
-                            lost on their home trail, Cass Benton Park, due to
-                            insufficient signage throughout the park. So, we
-                            dedicated one of our projects to solving this issue.
-                            However, rather than simply put up signs throughout
-                            the park, we wanted to innovate upon this trail
-                            navigation system and integrate technology into our
-                            solution. Along with designing, constructing, and
-                            laser engraving maps that could be located
-                            throughout the park, our team set out to create an
-                            app that would map the user's current location onto
-                            a digital copy of our maps via a QR code located on
-                            the signs.This interactivity leads to a greater
-                            connection between the user and the signs, allowing
-                            for more effective navigaiton and a more enjoyable
-                            experience. By the end of the project, we had hung
-                            20 signs throughout the park.
+                            The trail signage project was one of the first
+                            projects undertaken by our club. We learned that
+                            many of the new cross-country runners at our school
+                            would get lost on their home trail, Cass Benton
+                            Park, due to insufficient signage throughout the
+                            park. So, we dedicated one of our projects to
+                            solving this issue. However, rather than simply put
+                            up signs throughout the park, we wanted to innovate
+                            upon this trail navigation system and integrate
+                            technology into our solution. Along with designing,
+                            constructing, and laser engraving maps that could be
+                            located throughout the park, our team set out to
+                            create an app that would map the user's current
+                            location onto a digital copy of our maps via a QR
+                            code located on the signs. This interactivity leads
+                            to a greater connection between the user and the
+                            signs, allowing for more effective navigaiton and a
+                            more enjoyable experience. By the end of the
+                            project, we had hung 20 signs throughout the park.
                         </p>
                     </div>
                     <img src="signontree.jpg" />

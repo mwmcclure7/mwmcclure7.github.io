@@ -1,8 +1,13 @@
 .profile {
+    position: absolute;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    background: linear-gradient(90deg, var(--bg1), var(--bg2), var(--bg1));
+    animation: gradientAnimation 30s linear infinite;
+    background-size: 300% 100%;
+    height: calc(100vh - var(--header-height));
 }
 
 .profile div {
@@ -13,17 +18,5 @@
 }
 
 .profile img {
-    height: 90vh;
-    width: 50vw;
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 10% 100%);
-}
-
-.academics {
-    display: flex;
-    flex-direction: column;
-    text-align: justify;
-    margin: 100px;
-    padding: 100px;
-    background: var(--bg2);
-    border-radius: 20px;
+    height: 100%;
 }

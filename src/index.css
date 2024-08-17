@@ -46,7 +46,7 @@ a {
 	color: var(--text2);
 	font-weight: var(--fw2);
 	text-decoration: none;
-	transition: 0.3s;
+	transition: var(--transition1);
 }
 
 a:hover {

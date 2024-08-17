@@ -119,19 +119,6 @@ function Interests() {
                     </div>
                     <img src="ThreadedTichuRender.JPG" />
                 </div>
-                <div className="section" onClick={() => window.location.href = '#video'}>
-                    <img src="exigimos.png" />
-                    <div>
-                        <h2>Video Editing</h2>
-                        <p>
-                            There have been a few times in school when I created
-                            videos for projects and went completely overboard
-                            with the editing. I am by no means artistic, but I
-                            largely enjoy incorporating technology into any
-                            creative projects I undertake.
-                        </p>
-                    </div>
-                </div>
                 <div className="section" onClick={() => window.location.href = '#volunteering'}>
                     <div>
                         <h2>Volunteering</h2>

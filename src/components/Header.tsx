@@ -9,6 +9,7 @@ function Header() {
             </div>
             <div>
                 <a href="#">Home</a>
+                <a href="#academics">Academics</a>
                 <div className="interests">
                     <a href="#interests">My Interests</a>
                     <div className="dropdown">
@@ -20,7 +21,6 @@ function Header() {
                         <a href="#robotics">Robotics</a>
                         <a href="#programming">Programming</a>
                         <a href="#printing">3D Printing</a>
-                        <a href="#video">Video Editing</a>
                         <a href="#volunteering">Volunteering</a>
                     </div>
                 </div>

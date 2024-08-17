@@ -82,6 +82,13 @@ function Robotics() {
                             execution required in crafting a successful robotic
                             creation.
                         </p>
+                        <a
+                            href="https://grabcad.com/library/frc-548-2022-offseason-robot-1"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Phoenix CAD
+                        </a>
                     </div>
                     <img src="phoenix.jpg" />
                 </div>

@@ -61,6 +61,27 @@ function Programming() {
                 </div>
                 <div className="item">
                     <div>
+                        <h2>Personal Website</h2>
+                        <p>
+                            I personally coded the entirety of this website
+                            using the React framework. It built upon my
+                            knowledge of frontend development and gave me a
+                            practical way to showcase my projects and interests.
+                            I am constantly updating this website with new
+                            projects and integrating new technologies as they
+                            become available.
+                        </p>
+                        <a
+                            href="https://mwmcclure7.github.io/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Personal Website
+                        </a>
+                    </div>
+                </div>
+                <div className="item">
+                    <div>
                         <h2>Northville Aerospace Website</h2>
                         <p>
                             The Northville Aerospace website was a project I
@@ -336,7 +357,10 @@ function Programming() {
                             Try It Now
                         </a>
                     </div>
-                    <img src="pong.png" style={{minWidth:"400px", height:"350px"}} />
+                    <img
+                        src="pong.png"
+                        style={{ minWidth: "400px", height: "350px" }}
+                    />
                 </div>
                 <div className="item">
                     <div>
@@ -360,7 +384,10 @@ function Programming() {
                             Try It Now
                         </a>
                     </div>
-                    <img src="scale.png" style={{minWidth:"350px", height:"360px"}} />
+                    <img
+                        src="scale.png"
+                        style={{ minWidth: "350px", height: "360px" }}
+                    />
                 </div>
             </div>
         </div>
