@@ -4,6 +4,7 @@ import Carousel from "../components/Carousel";
 function Aerospace() {
     const images = [
         "r4saward.jpg",
+        "narmembership.jpg",
         "rocket-launch.jpg",
         "rocketbuild2.jpg",
         "r4s-team.jpg",
@@ -141,6 +142,34 @@ function Aerospace() {
                         </a>
                     </div>
                     <img src="arc.jpg" />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Jr. L1 Certification</h2>
+                        <p>
+                            Following the Rockets For Schools competition, I
+                            began getting my Jr. L1 certification, as our mentor
+                            had just offered to help anyone who would be
+                            interested. Upon the completion of this
+                            certification, I will be able to launch high-powered
+                            rockets. To get certified, you must successfully
+                            construct, launch, and recover a high-powered
+                            rocket. I am currently in the process of
+                            constructing a fiberglass 54mm "Alien Interceptor"
+                            for this certification. Once I turn 18 in December,
+                            I will also be able to reuse this rocket to get my
+                            L2 certification, allowing me to fly on even more
+                            powerful motors.
+                        </p>
+                        <a
+                            href="https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification-procedures/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            NAR L1 Certification Procedures
+                        </a>
+                    </div>
+                    <img src="l1fillet.jpg" />
                 </div>
             </div>
         </div>
