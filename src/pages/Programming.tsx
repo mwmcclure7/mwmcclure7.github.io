@@ -58,6 +58,7 @@ function Programming() {
                             Sensei.AI Website
                         </a>
                     </div>
+                    <img src="sensei4.png" style={{height:"300px"}} />
                 </div>
                 <div className="item">
                     <div>
@@ -71,13 +72,22 @@ function Programming() {
                             projects and integrating new technologies as they
                             become available.
                         </p>
-                        <a
-                            href="https://mwmcclure7.github.io/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            Personal Website
-                        </a>
+                        <div className="links">
+                            <a
+                                href="https://mwmcclure7.github.io/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Personal Website
+                            </a>
+                            <a
+                                href="https://github.com/mwmcclure7/mwmcclure7.github.io/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div className="item">
@@ -113,6 +123,7 @@ function Programming() {
                             </a>
                         </div>
                     </div>
+                    <img src="aerospacewebsite.png" style={{height:"300px"}} />
                 </div>
                 <div className="item">
                     <div>
@@ -148,6 +159,7 @@ function Programming() {
                             </a>
                         </div>
                     </div>
+                    <img src="edgecartographer.png" style={{width:"215px", minWidth:"215px"}} />
                 </div>
                 <div className="item">
                     <div>
@@ -228,30 +240,6 @@ function Programming() {
                 </div>
                 <div className="item">
                     <div>
-                        <h2>3x3x3x3 TicTacToe</h2>
-                        <p>
-                            This was a project that I completed entirely in my
-                            AP Computer Science Principles class with any spare
-                            time I had. I had already been programming for many
-                            years, so I would often finish the assignments for
-                            the day with plenty of time to spare. I would spend
-                            the remaining time working on a simple tic-tac-toe
-                            game that eventually grew into an "ultimate" version
-                            of tic-tac-toe, which was played on a 3x3 grid of
-                            3x3 grids. You would have to win a board in order to
-                            claim that spot in the overall 3x3 grid.
-                        </p>
-                        <a
-                            href="https://github.com/mwmcclure7/TicTacToe/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            GitHub Repository
-                        </a>
-                    </div>
-                </div>
-                <div className="item">
-                    <div>
                         <h2>Spinny Circle Formula Generator</h2>
                         <p>
                             Despite the ridiculous name, this project actually
@@ -311,23 +299,49 @@ function Programming() {
                             GitHub Repository
                         </a>
                     </div>
+                    <img src="enigma.png" style={{height:"480px"}} />
                 </div>
                 <div className="item">
                     <div>
-                        <h2>Mouse Mover</h2>
+                        <h2>Link Scraper</h2>
                         <p>
-                            This program was created as a prank, as anyone who
-                            runs it will find that they had lost control of
-                            their cursor, which now randomly moves across the
-                            screen. This was one of my first times using the
-                            pyautogui library to control the interface of my
-                            computer, in this case, my cursor. If you quickly
-                            drag the cursor towards one of the corners of the
-                            screen, then the effect will be temporarily disabled
-                            for a random amount of time.
+                            I wrote this program while I was learning about web
+                            scraping with Python. After running the program, you
+                            input the url to a website, like https://github.com,
+                            and the program will return a list of all links
+                            found within the website. Then, the program scrapes
+                            each of those links for more links, leaving you with
+                            a large list of links. Then, the program ranks the
+                            links from most frequent to least frequent. For
+                            example, the most frequent link on github.com was
+                            github.blog, appearing 71 times.
                         </p>
                         <a
-                            href="https://github.com/mwmcclure7/Mouse-Mover/"
+                            href="https://github.com/mwmcclure7/Link-Scraper/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Repository
+                        </a>
+                    </div>
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Website Word Counter</h2>
+                        <p>
+                            Similar to the Link Scraper, I created this program
+                            while learning about web scraping with Python. This
+                            program takes a url as input and finds all links
+                            referenced in the website, similar to the Link
+                            Scraper. However, this program then filters through
+                            the links and only uses links with the same domain
+                            name as the original url. Then, the program scrapes
+                            all of the text from these links and counts the
+                            frequency of each word used. The program then ranks
+                            the words from most frequent to least frequent.
+                        </p>
+                        <a
+                            href="https://github.com/mwmcclure7/Website-Word-Counter/"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -388,6 +402,105 @@ function Programming() {
                         src="scale.png"
                         style={{ minWidth: "350px", height: "360px" }}
                     />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>3x3x3x3 TicTacToe</h2>
+                        <p>
+                            This was a project that I completed entirely in my
+                            AP Computer Science Principles class with any spare
+                            time I had. I had already been programming for many
+                            years, so I would often finish the assignments for
+                            the day with plenty of time to spare. I would spend
+                            the remaining time working on a simple tic-tac-toe
+                            game that eventually grew into an "ultimate" version
+                            of tic-tac-toe, which was played on a 3x3 grid of
+                            3x3 grids. You would have to win a board in order to
+                            claim that spot in the overall 3x3 grid. I know a
+                            TicTacToe game is not exactly an impressive project,
+                            but I actually managed to include quite a bit of
+                            detail in my implimentation. This project also
+                            helped me refamiliarize myself with classes in
+                            Python.
+                        </p>
+                        <a
+                            href="https://github.com/mwmcclure7/TicTacToe/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Repository
+                        </a>
+                    </div>
+                    <img src="tictactoe.png" style={{width:"200px", minWidth:"528px"}} />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Binary Number Game</h2>
+                        <p>
+                            This is a binary number calculating game that I
+                            created after reaserching how decimal numbers are
+                            converted into binary numbers. First, you enter the
+                            number of bits that you would like to play the game
+                            with. Then, the computer simply shows you a binary
+                            number with those number of bits, and you have to
+                            convert that number into decimal. The computer will
+                            then tell you if you are correct or not.
+                        </p>
+                        <a
+                            href="https://github.com/mwmcclure7/Binary-Number-Game/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Repository
+                        </a>
+                    </div>
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Mouse Mover</h2>
+                        <p>
+                            This program was created as a prank, as anyone who
+                            runs it will find that they had lost control of
+                            their cursor, which now randomly moves across the
+                            screen. This was one of my first times using the
+                            pyautogui library to control the interface of my
+                            computer, in this case, my cursor. If you quickly
+                            drag the cursor towards one of the corners of the
+                            screen, then the effect will be temporarily disabled
+                            for a random amount of time.
+                        </p>
+                        <a
+                            href="https://github.com/mwmcclure7/Mouse-Mover/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Repository
+                        </a>
+                    </div>
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Most Common Letter Finder</h2>
+                        <p>
+                            I wrote this program when I was curious about the
+                            most common letter in the English language. You can
+                            input any text file (.txt), and this program will
+                            read the file and return the number of times each
+                            letter appears. To test this program on the entire
+                            english language, I found a text file that
+                            supposedly contained all english words and ran the
+                            program on that file. Based on the text file I used,
+                            the most common letter is "e" appearing 376,452
+                            times.
+                        </p>
+                        <a
+                            href="https://github.com/mwmcclure7/Most-Common-Letter-Finder/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Repository
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

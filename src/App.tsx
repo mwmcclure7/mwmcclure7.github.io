@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { Route, Routes } from "react-router-dom";
+import { useState, useEffect } from "react";
+import { Route, Routes, useLocation } from "react-router-dom";
 import { Toaster } from "react-hot-toast";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
@@ -19,10 +19,15 @@ import Login from "./pages/Login";
 
 function App() {
     const [isAuthenticated, setIsAuthenticated] = useState(false);
+    const location = useLocation();
 
     function handleLogin() {
         setIsAuthenticated(true);
     }
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, [location]);
 
     return (
         <div className="app">
