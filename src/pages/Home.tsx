@@ -3,7 +3,7 @@ import "../styles/Home.css";
 function Home() {
     return (
         <div className="profile">
-            <img src="nature-picture.jpg" />
+            <img src="matthew-nature.jpg" />
             <div>
                 <h1>My Mission</h1>
                 <p>

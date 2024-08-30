@@ -45,6 +45,50 @@ function Academics() {
                             </thead>
                             <tbody>
                                 <tr>
+                                    <td>Honors Calculus 2</td>
+                                    <td>(In progress)</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Biology</td>
+                                    <td>(In progress)</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Statistics</td>
+                                    <td>(In progress)</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Computer Science</td>
+                                    <td>(In progress)</td>
+                                </tr>
+                                <tr>
+                                    <td>IB Chemistry-HL-Y2</td>
+                                    <td>(In progress)</td>
+                                </tr>
+                                <tr>
+                                    <td>AP English Literature and Composition</td>
+                                    <td>(In progress)</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Physics (C)</td>
+                                    <td>(In progress)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <h3>Senior Year</h3>
+                <div className="year">
+                    <div>
+                        <h4>Semester 1</h4>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Course Name</th>
+                                    <th>Grade</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
                                     <td>AP Computer Science Principles</td>
                                     <td>A+</td>
                                 </tr>
@@ -308,7 +352,7 @@ function Academics() {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>AP Calculus</td>
+                                    <td>AP Calculus AB</td>
                                     <td>5</td>
                                 </tr>
                                 <tr>

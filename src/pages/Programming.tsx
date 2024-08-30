@@ -17,7 +17,10 @@ function Programming() {
                         abilities. Whether it be developing web applications or
                         programming robots, I have always strived to push the
                         boundaries of what I can achieve and make a meaningful
-                        impact through my work.
+                        impact through my work. Over time, I have gained
+                        experience in a variety of languages and frameworks,
+                        including Python, React, TypeScript, JavaScript, HTML,
+                        CSS, Django, Java, C, C++, Visual Basic, and Rust.
                     </p>
                     <div className="links">
                         <a
@@ -58,7 +61,7 @@ function Programming() {
                             Sensei.AI Website
                         </a>
                     </div>
-                    <img src="sensei4.png" style={{height:"300px"}} />
+                    <img src="sensei4.png" style={{ height: "300px" }} />
                 </div>
                 <div className="item">
                     <div>
@@ -123,7 +126,10 @@ function Programming() {
                             </a>
                         </div>
                     </div>
-                    <img src="aerospacewebsite.png" style={{height:"300px"}} />
+                    <img
+                        src="aerospacewebsite.png"
+                        style={{ height: "300px" }}
+                    />
                 </div>
                 <div className="item">
                     <div>
@@ -159,7 +165,10 @@ function Programming() {
                             </a>
                         </div>
                     </div>
-                    <img src="edgecartographer.png" style={{width:"215px", minWidth:"215px"}} />
+                    <img
+                        src="edgecartographer.png"
+                        style={{ width: "215px", minWidth: "215px" }}
+                    />
                 </div>
                 <div className="item">
                     <div>
@@ -299,7 +308,7 @@ function Programming() {
                             GitHub Repository
                         </a>
                     </div>
-                    <img src="enigma.png" style={{height:"480px"}} />
+                    <img src="enigma.png" style={{ height: "480px" }} />
                 </div>
                 <div className="item">
                     <div>
@@ -431,7 +440,10 @@ function Programming() {
                             GitHub Repository
                         </a>
                     </div>
-                    <img src="tictactoe.png" style={{width:"200px", minWidth:"528px"}} />
+                    <img
+                        src="tictactoe.png"
+                        style={{ width: "200px", minWidth: "528px" }}
+                    />
                 </div>
                 <div className="item">
                     <div>
