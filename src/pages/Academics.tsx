@@ -32,7 +32,7 @@ function Academics() {
                 >
                     Transcript
                 </a>
-                <h3>Junior Year</h3>
+                <h3>Senior Year</h3>
                 <div className="year">
                     <div>
                         <h4>Semester 1</h4>
@@ -76,7 +76,7 @@ function Academics() {
                         </table>
                     </div>
                 </div>
-                <h3>Senior Year</h3>
+                <h3>Junior Year</h3>
                 <div className="year">
                     <div>
                         <h4>Semester 1</h4>
