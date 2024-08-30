@@ -3,6 +3,7 @@ import "../styles/Home.css";
 function Home() {
     return (
         <div className="profile">
+            <img src="nature-picture.jpg" />
             <div>
                 <h1>My Mission</h1>
                 <p>
@@ -20,7 +21,6 @@ function Home() {
                     centuries.
                 </p>
             </div>
-            <img src="placeholder.jpg" className="headshot" />
         </div>
     );
 }

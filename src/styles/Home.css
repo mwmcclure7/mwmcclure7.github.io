@@ -13,10 +13,13 @@
 .profile div {
     display: flex;
     flex-direction: column;
-    margin: 0 100px;
+    margin: 0 5vw;
     text-align: justify;
 }
 
 .profile img {
     height: 100%;
+    width: 40vw;
+    min-width: 35vw;
+    object-fit: cover;
 }
