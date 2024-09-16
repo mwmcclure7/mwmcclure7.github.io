@@ -100,10 +100,10 @@ function Aerospace() {
                             Along with assisting with the construction of the
                             rocket, I was responsible for the software and
                             electronics of the payload. The electronics bay
-                            consisted of an Arduino Nano, an accellerometer, an
+                            consisted of an Arduino Nano, an accelerometer, an
                             altimeter, a battery, and wires that would measure
                             the electrical continuity of the metal being tested.
-                            This allowed us to determine at what acclleration
+                            This allowed us to determine at what acceleration
                             the metal broke, and therefore backcalculate the
                             tensile strength of the metal. We placed second in
                             this competition, and where therefore invited to

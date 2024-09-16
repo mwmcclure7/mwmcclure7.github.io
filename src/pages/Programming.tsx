@@ -428,9 +428,7 @@ function Programming() {
                             claim that spot in the overall 3x3 grid. I know a
                             TicTacToe game is not exactly an impressive project,
                             but I actually managed to include quite a bit of
-                            detail in my implimentation. This project also
-                            helped me refamiliarize myself with classes in
-                            Python.
+                            detail in my implementation.
                         </p>
                         <a
                             href="https://github.com/mwmcclure7/TicTacToe/"
@@ -450,7 +448,7 @@ function Programming() {
                         <h2>Binary Number Game</h2>
                         <p>
                             This is a binary number calculating game that I
-                            created after reaserching how decimal numbers are
+                            created after researching how decimal numbers are
                             converted into binary numbers. First, you enter the
                             number of bits that you would like to play the game
                             with. Then, the computer simply shows you a binary

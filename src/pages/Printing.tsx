@@ -10,7 +10,7 @@ function Printing() {
                         I was first introduced to CAD in middle school, but it
                         was not until I became a freshman that I truly began to
                         love what it could allow me to create. I 3D printed my
-                        first CAD model in fall of nineth grade, and immediately
+                        first CAD model in fall of ninth grade, and immediately
                         knew that I wanted to get more involved in this hobby. I
                         quickly became proficient in both Onshape (from school)
                         and SolidWorks (from robotics), so I bought my first 3D
@@ -23,7 +23,7 @@ function Printing() {
                         thermoplastics, including PLA, Nylon, PETG, PVA, TPU,
                         and ABS. Wanting to dive deeper into 3D printing by
                         printing multiple materials at once, I bought an IDEX
-                        printer, the Flashforge Creater Pro 2, and began
+                        printer, the Flashforge Creator Pro 2, and began
                         experimenting with the ways different thermoplastics
                         interacted with each other.
                     </p>
@@ -70,11 +70,11 @@ function Printing() {
                         <p>
                             At the creation of this project, I did not have a
                             bank account to store my money, and I also never
-                            really spent it. Eventully, the cash no longer fit
+                            really spent it. Eventually, the cash no longer fit
                             in my wallet, so I bought a safe. However, the safe
                             lacked organization, so I designed this box to store
                             my cash in an organized manner. This box has
-                            adjustible dividers to separate the different types
+                            adjustable dividers to separate the different types
                             of bills and a snap-fit lid.
                         </p>
                     </div>

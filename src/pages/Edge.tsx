@@ -88,7 +88,7 @@ function Edge() {
                             location onto a digital copy of our maps via a QR
                             code located on the signs. This interactivity leads
                             to a greater connection between the user and the
-                            signs, allowing for more effective navigaiton and a
+                            signs, allowing for more effective navigation and a
                             more enjoyable experience. By the end of the
                             project, we had hung 20 signs throughout the park.
                         </p>

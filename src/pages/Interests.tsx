@@ -125,7 +125,7 @@ function Interests() {
                         <p>
                             I have spent considerable time volunteering for my
                             community in ways that align with my interests. I
-                            joined the National Honor Society to further peruse
+                            joined the National Honor Society to further pursue
                             this goal.
                         </p>
                     </div>
