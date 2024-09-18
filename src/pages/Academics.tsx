@@ -485,7 +485,7 @@ function Academics() {
                             scraps, the design was unstoppable in the
                             competition and we won by a large margin. We really
                             enjoyed putting this simple robot together, and
-                            actually bought LED strips to attatch to it.
+                            actually bought LED strips to attach to it.
                         </p>
                     </div>
                     <img src="sweptawayrobot.jpg" />
@@ -555,8 +555,8 @@ function Academics() {
                             and "sell" it to other students. The product I
                             developed was essentially a battery powered ice
                             cream scoop that functioned similarly to an
-                            oscellating saw. This functionality would make it
-                            much easier to scoop deeply fronzen ice cream. We
+                            oscillating saw. This functionality would make it
+                            much easier to scoop deeply frozen ice cream. We
                             did not have to actually construct the product, but
                             I decided to design and 3D print a basic model of
                             the product to make it more appealing to potential
@@ -584,7 +584,7 @@ function Academics() {
                             juxtaposition of the serious expression with the
                             ridiculous editing is what makes this video funny,
                             especially if you consider that I am generally a
-                            serious, introvered person. On an even funnier note,
+                            serious, introverted person. On an even funnier note,
                             I started getting random compliments in the hallway
                             from friends, and found out that my teacher had
                             shown the video to the other classes.
@@ -616,7 +616,7 @@ function Academics() {
                             students who have any questions about AP World
                             History can observe as I make a fool of myself for
                             the sake of extra credit. Despite this, my grade
-                            ended up being too high to even recieve the extra
+                            ended up being too high to even receive the extra
                             credit for winning the competition.
                         </p>
                     </div>

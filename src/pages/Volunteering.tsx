@@ -32,7 +32,7 @@ function Volunteering() {
                             would demonstrate the Robostangs' robot to the kids
                             and explain to them how it worked. It was really
                             exciting to see their reactions to our hard work,
-                            and it actually made me reappreciate everything the
+                            and it made me appreciate everything the
                             robotics team and I had accomplished.
                         </p>
                     </div>

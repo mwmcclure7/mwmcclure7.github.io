@@ -27,7 +27,7 @@ function Sensei() {
                         revolutionize the way we learn, as it is more affordable
                         and accessible than hiring a tutor or enrolling in a
                         class, while also being more personalized and
-                        interacitve than previous mediums of self-education. I
+                        interactive than previous mediums of self-education. I
                         also believe that as AI becomes more sophisticated, it
                         will become increasingly important to be able to pass on
                         knowledge learned by AI back to humans. It is our hope
@@ -35,7 +35,7 @@ function Sensei() {
                         between people and AI so humanity can benefit from the
                         knowledge it gains. To learn more about Sensei.AI, visit
                         the link below. You can also try Sensei for yourself
-                        by creating an account. You will recieve a one month
+                        by creating an account. You will receive a one month
                         free trial with no credit card required.
                     </p>
                     <div className="links">
@@ -44,7 +44,7 @@ function Sensei() {
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            www.softwaresensei.ai
+                            Sensei.AI Website
                         </a>
                     </div>
                 </div>
