@@ -21,23 +21,25 @@ function Mtb() {
                 <div>
                     <h1>Mountain Biking</h1>
                     <p>
-                        My journey in mountain biking began during my Freshman
-                        year, where I found a profound love for this exciting
-                        sport. Its unique blend of mental stimulation and
-                        physical exertion drew me in from the beginning. Beyond
-                        the mental challenge, mountain biking serves as an
-                        excellent form of exercise, pushing my endurance and
-                        strength to new limits. What sets it apart is the
-                        interplay between grueling uphill climbs and the
-                        exhilaration of downhill descents, turning each ride
-                        into a fast-paced roller coaster. I joined the
-                        Northville team in my first year of riding, progressing
-                        in the MiSCA league from a novice to a varsity rider.
-                        This year, I sought to expand my skills by joining the
-                        MiSCA DEVO team, a developmental program that not only
-                        refines my mountain biking skills but also enhances my
-                        overall athleticism through specialized training and
-                        additional races.
+                        I began mountain biking during my freshman year and
+                        immediately loved the sport, as it is the perfect
+                        combination of mental stimulation and physical exertion.
+                        It is also one of the few sports, if not the only sport,
+                        that incorporates engineering principles through bike
+                        repair, maintenance, and tuning. I joined the Northville
+                        Mountain Bike Team in my first year of riding and began
+                        racing in the Novice category of the MiSCA league. Over
+                        the next two years, I raced in the Junior Varsity
+                        category, making a few podiums in my junior year.
+                        Afterwards, I joined the MiSCA DEVO team, a
+                        developmental program that enhances my skills and
+                        athleticism through scientific training. Through MiSCA
+                        DEVO, I was able to participate in national-level races.
+                        I raced Varsity in my senior year and was chosen as the
+                        Northville Team Captain. Throughout my time in the
+                        sport, I have enjoyed watching the tremendous growth it
+                        has endured. My team grew from around 15 to 40+ riders,
+                        and the MiSCA League as a whole expanded significantly.
                     </p>
                     <div className="links">
                         <a
@@ -74,16 +76,16 @@ function Mtb() {
                             school, but quickly grew to love it. That same year,
                             I raced in the MiSCA series alongside my Northville
                             teammates. Having just started, I placed near the
-                            middle of the novice level races. The following
+                            middle of the Novice category races. The following
                             year, I decided to push myself harder and race in
-                            the longer, junior varsity races. Having improved
+                            the longer, Junior Varsity races. Having improved
                             from the previous year, I placed near the middle of
-                            the junior varsity category. The year after that, in
-                            my eleventh grade year, my performance absolutely
-                            skyrocketed and I began placing on podiums in my
-                            junior varsity races. That year, I applied for the
-                            MiSCA DEVO team and set my mind on racing in the
-                            varsity category the following year.
+                            the Junior Varsity category. In my junior year, my
+                            performance skyrocketed and I began making the
+                            podium. It was at this point that I applied for the
+                            MiSCA DEVO team. In my final year on the team, I
+                            raced Varsity to push the limits of what I was
+                            capable of in this sport.
                         </p>
                     </div>
                     <img src="nhspodium.jpg" />
@@ -95,17 +97,15 @@ function Mtb() {
                             Following the success of my eleventh grade season, I
                             applied for a spot on the MiSCA DEVO team for elite
                             student racers in Michigan. After interviewing with
-                            the coaches, I was accepted onto the team, and was
-                            thrilled that I would be taking my riding to the
-                            next level. This team opened up a world of
-                            opportunities for racing and training. In this
-                            program, my coach would arrange personalized
-                            training plans to make my workouts as effective as
-                            possible. In addition to better training, my coaches
-                            also helped me navigate the world of national
-                            racing. In March 2023, I competed in my first
-                            national race and earned national rank as a mountain
-                            bike racer.
+                            the coaches, I was accepted onto the team. This
+                            program opened up a world of opportunities for
+                            racing and training. In this program, my coach would
+                            arrange personalized training plans to make my
+                            workouts as effective as possible. In addition to
+                            scientific training, my coaches helped me navigate
+                            the world of national racing. In March 2023, I
+                            competed in my first national race in Tennessee and
+                            earned national rank as a mountain bike racer.
                         </p>
                     </div>
                     <img src="devo.png" />
