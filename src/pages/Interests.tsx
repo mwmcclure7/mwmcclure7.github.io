@@ -120,6 +120,7 @@ function Interests() {
                     <img src="ThreadedTichuRender.JPG" />
                 </div>
                 <div className="section" onClick={() => window.location.href = '#volunteering'}>
+                    <img src="volunteering.jpg" />
                     <div>
                         <h2>Volunteering</h2>
                         <p>
@@ -129,7 +130,6 @@ function Interests() {
                             this goal.
                         </p>
                     </div>
-                    <img src="volunteering.jpg" />
                 </div>
             </div>
         </div>
