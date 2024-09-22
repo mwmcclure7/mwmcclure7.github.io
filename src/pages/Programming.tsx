@@ -195,6 +195,7 @@ function Programming() {
                             Colab Notebook
                         </a>
                     </div>
+                    <img src="inspiritaicertificate.jpg" />
                 </div>
                 <div className="item">
                     <div>
