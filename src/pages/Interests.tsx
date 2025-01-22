@@ -12,12 +12,7 @@ function Interests() {
                         experienced throughout my years as a student. I am
                         dedicated to the advancement of technology and have a
                         strong interest in the STEM fields, particularly in
-                        software and artificial intelligence. My ultimate goal
-                        in life is to advance technology to the greatest extent
-                        that I can in a way that benefits humanity. I truly want
-                        to leave my mark on the world, and I believe that
-                        perusing the growth of the technology is the most
-                        effective way to achieve this goal.
+                        software and artificial intelligence.
                     </p>
                 </div>
             </div>

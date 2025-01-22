@@ -12,8 +12,7 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
     };
 
     function checkPassword(password: string) {
-        // if (password === import.meta.env.VITE_PASSWORD) onLogin(); Temporary fix for secrets bug
-        if (password === "innovate") onLogin();
+        if (password === import.meta.env.VITE_PASSWORD) onLogin();
     }
 
     return (

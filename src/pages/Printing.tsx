@@ -190,31 +190,6 @@ function Printing() {
                     </div>
                     <img src="foosballcatcher.jpg" />
                 </div>
-                <div className="item">
-                    <div>
-                        <h2>Puzzle Cube</h2>
-                        <p>
-                            This puzzle cube is a three dimensional puzzle where
-                            the user has to put together the pieces to make a
-                            cube. This was the project where I really figured
-                            out how precise my machine is, as I had to design
-                            each part to interlock together despite variances in
-                            manufacturing.
-                        </p>
-                    </div>
-                    <img src="PuzzleCube.png" />
-                </div>
-                <div className="item">
-                    <div>
-                        <h2>Pumpkin</h2>
-                        <p>
-                            This is a pumpkin with the Robostangs logo carved
-                            into it, which I designed to increase my experience
-                            working with oddly-shaped curved surfaces.
-                        </p>
-                    </div>
-                    <img src="Pumpkin.png" />
-                </div>
             </div>
         </div>
     );

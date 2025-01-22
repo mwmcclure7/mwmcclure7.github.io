@@ -65,7 +65,9 @@ function Academics() {
                                     <td>(In progress)</td>
                                 </tr>
                                 <tr>
-                                    <td>AP English Literature and Composition</td>
+                                    <td>
+                                        AP English Literature and Composition
+                                    </td>
                                     <td>(In progress)</td>
                                 </tr>
                                 <tr>
@@ -510,6 +512,37 @@ function Academics() {
                 </div>
                 <div className="item">
                     <div>
+                        <h2>Frankenstein Sculpture</h2>
+                        <p>
+                            This sculpture was part of a project in AP
+                            Literature where we had to create an art piece that
+                            metaphorically represents a theme from Frankenstein.
+                            Considering I have no artistic ability, I designed
+                            and 3D printed this sculpture. My teacher also
+                            required that I record a time lapse video of the
+                            design, which can be seen in the link below.
+                        </p>
+                        <div className="links">
+                            <a
+                                href="https://cad.onshape.com/documents/6782a3b98e7e3a3d43237e20/w/fde9bc0b6f3598550db30e89/e/a7442e19d06ae490c371e0dc?renderMode=0&uiState=67902729341d2170c9292d28"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Sculpture CAD
+                            </a>
+                            <a
+                                href="https://drive.google.com/file/d/1BX4dBaQjBHLBkDKtAD5AKqMeJi-Rnj2-/view?usp=sharing"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Time Lapse Video
+                            </a>
+                        </div>
+                    </div>
+                    <img src="Frankenstein.jpg" />
+                </div>
+                <div className="item">
+                    <div>
                         <h2>Holocaust Memorial</h2>
                         <p>
                             This memorial was part of a 9th grade English
@@ -523,49 +556,6 @@ function Academics() {
                         </p>
                     </div>
                     <img src="holocaust.jpg" />
-                </div>
-                <div className="item">
-                    <div>
-                        <h2>Tokushinryu Snowflake</h2>
-                        <p>
-                            This was an assignment in PLTW Intro to Engineering
-                            where we had to use radial pattern tool to create a
-                            snowflake. In my case, I based the snowflake off of
-                            the Tokushinryu logo. I later 3D printed the
-                            snowflake with a 0.2mm nozzle, which was much
-                            smaller than I had printed with before. This small
-                            nozzle size allowed me to print the Japanese
-                            characters with much greater detail. I also tried a
-                            new technique with my 3D printer where I printed the
-                            base of the snowflake in black, and switched the
-                            material color to red when it had completed the
-                            layers on the interior pattern, giving the logo a
-                            red outline without requiring a dual extrusion
-                            printer.
-                        </p>
-                    </div>
-                    <img src="snowflake.jpg" />
-                </div>
-                <div className="item">
-                    <div>
-                        <h2>Powerscoop</h2>
-                        <p>
-                            Powerscoop was a product I created for my Principles
-                            of Business class, where we had to develop a product
-                            and "sell" it to other students. The product I
-                            developed was essentially a battery powered ice
-                            cream scoop that functioned similarly to an
-                            oscillating saw. This functionality would make it
-                            much easier to scoop deeply frozen ice cream. We
-                            did not have to actually construct the product, but
-                            I decided to design and 3D print a basic model of
-                            the product to make it more appealing to potential
-                            buyers. The tip of the scoop threads into the
-                            handle, and the handle has a button made of flexible
-                            material that would, in theory, turn on the device.
-                        </p>
-                    </div>
-                    <img src="powerscoop.png" />
                 </div>
                 <div className="item">
                     <div>
@@ -584,10 +574,10 @@ function Academics() {
                             juxtaposition of the serious expression with the
                             ridiculous editing is what makes this video funny,
                             especially if you consider that I am generally a
-                            serious, introverted person. On an even funnier note,
-                            I started getting random compliments in the hallway
-                            from friends, and found out that my teacher had
-                            shown the video to the other classes.
+                            serious, introverted person. On an even funnier
+                            note, I started getting random compliments in the
+                            hallway from friends, and found out that my teacher
+                            had shown the video to the other classes.
                         </p>
                     </div>
                     <iframe
@@ -626,6 +616,74 @@ function Academics() {
                         referrerPolicy="strict-origin-when-cross-origin"
                         allowFullScreen
                     ></iframe>{" "}
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Tokushinryu Snowflake</h2>
+                        <p>
+                            This was an assignment in PLTW Intro to Engineering
+                            where we had to use radial pattern tool to create a
+                            snowflake. In my case, I based the snowflake off of
+                            the Tokushinryu logo. I later 3D printed the
+                            snowflake with a 0.2mm nozzle, which was much
+                            smaller than I had printed with before. This small
+                            nozzle size allowed me to print the Japanese
+                            characters with much greater detail. I also tried a
+                            new technique with my 3D printer where I printed the
+                            base of the snowflake in black, and switched the
+                            material color to red when it had completed the
+                            layers on the interior pattern, giving the logo a
+                            red outline without requiring a dual extrusion
+                            printer.
+                        </p>
+                    </div>
+                    <img src="snowflake.jpg" />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Powerscoop</h2>
+                        <p>
+                            Powerscoop was a product I created for my Principles
+                            of Business class, where we had to develop a product
+                            and "sell" it to other students. The product I
+                            developed was essentially a battery powered ice
+                            cream scoop that functioned similarly to an
+                            oscillating saw. This functionality would make it
+                            much easier to scoop deeply frozen ice cream. We did
+                            not have to actually construct the product, but I
+                            decided to design and 3D print a basic model of the
+                            product to make it more appealing to potential
+                            buyers. The tip of the scoop threads into the
+                            handle, and the handle has a button made of flexible
+                            material that would, in theory, turn on the device.
+                        </p>
+                    </div>
+                    <img src="powerscoop.png" />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Puzzle Cube</h2>
+                        <p>
+                            This puzzle cube is a three dimensional puzzle where
+                            the user has to put together the pieces to make a
+                            cube. This was the project where I really figured
+                            out how precise my machine is, as I had to design
+                            each part to interlock together despite variances in
+                            manufacturing.
+                        </p>
+                    </div>
+                    <img src="PuzzleCube.png" />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Pumpkin</h2>
+                        <p>
+                            This is a pumpkin with the Robostangs logo carved
+                            into it, which I designed to increase my experience
+                            working with oddly-shaped curved surfaces.
+                        </p>
+                    </div>
+                    <img src="Pumpkin.png" />
                 </div>
             </div>
         </div>
