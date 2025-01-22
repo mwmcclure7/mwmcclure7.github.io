@@ -35,8 +35,7 @@ function Sensei() {
                         between people and AI so humanity can benefit from the
                         knowledge it gains. To learn more about Sensei.AI, visit
                         the link below. You can also try Sensei for yourself
-                        by creating an account. You will receive a one month
-                        free trial with no credit card required.
+                        by creating an account.
                     </p>
                     <div className="links">
                         <a
@@ -45,6 +44,13 @@ function Sensei() {
                             rel="noopener noreferrer"
                         >
                             Sensei.AI Website
+                        </a>
+                        <a
+                                href="https://github.com/mwmcclure7/sensei"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
                         </a>
                     </div>
                 </div>

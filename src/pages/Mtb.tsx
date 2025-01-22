@@ -4,6 +4,7 @@ import Carousel from "../components/Carousel";
 function Mtb() {
     const images = [
         "mtb1.png",
+        "varsity.jpg",
         "statechamp2024.jpg",
         "jv2023.jpg",
         "jv2022.jpg",

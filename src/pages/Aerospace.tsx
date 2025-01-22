@@ -3,8 +3,14 @@ import Carousel from "../components/Carousel";
 
 function Aerospace() {
     const images = [
+        "senseidronelaunch.jpg",
+        "senseilaunch.jpg",
+        "senseirecovery.jpg",
+        "senseirocket.jpg",
+        "rooni.jpg",
+        "sli-launch.jpg",
         "r4saward.jpg",
-        "narmembership.jpg",
+        "nar-cert.jpg",
         "rocket-launch.jpg",
         "rocketbuild2.jpg",
         "r4s-team.jpg",
@@ -55,10 +61,36 @@ function Aerospace() {
                         </a>
                     </div>
                 </div>
-                <img src="rocket-launch.jpg" />
+                <img src="sli-launch.jpg" />
             </div>
             <Carousel images={images} />
             <div className="list">
+                <div className="item">
+                    <div>
+                        <h2>NAR HPR L1 Certification</h2>
+                        <p>
+                            In order to fly high-powered rockets, you must have
+                            varying levels of certification depending on the
+                            power of the motor. To obtain this certification, I
+                            constructed a 54 mm diameter, fiberglass Alien
+                            Interceptor, and branded it with my company,
+                            Sensei.AI. I flew this rocket on a H180W motor, and
+                            after a successful recovery, I was awarded my L1
+                            certification.
+                        </p>
+                        <a
+                            href="https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification-procedures/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            NAR L1 Certification Procedures
+                        </a>
+                    </div>
+                    <img
+                        src="senseilaunch.jpg"
+                        style={{ objectPosition: "0 -150px" }}
+                    />
+                </div>
                 <div className="item">
                     <div>
                         <h2>NASA Student Launch Initiative</h2>
@@ -68,23 +100,30 @@ function Aerospace() {
                             Student Launch Initiative. This competition is a
                             year-long project where we design, construct, and
                             launch a high-powered rocket with a scientific
-                            payload. To be accepted into the competition, we had
-                            to submit a 50-page proposal detailing our rocket
-                            design and payload, as well as construction methods
-                            and safety procedures. Typically, only around
-                            fifteen highschool teams are accepted into this
-                            competition, and we were honored to be the only team
-                            from Michigan.
+                            payload. Throughout the process, we document our
+                            progress through various technical reports, as
+                            linked below, and presentations to engineers at
+                            NASA. We were one of less than twenty high school
+                            teams invited to compete throughout the country.
                         </p>
-                        <a
-                            href="https://www.nasa.gov/learning-resources/nasa-student-launch/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            NASA Student Launch Initiative
-                        </a>
+                        <div className="links">
+                            <a
+                                href="https://nhsaerospace.github.io/#nasasli"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Project Documentation
+                            </a>
+                            <a
+                                href="https://www.nasa.gov/learning-resources/nasa-student-launch/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                NASA Student Launch Initiative
+                            </a>
+                        </div>
                     </div>
-                    <img src="nasa.svg" />
+                    <img src="rooni.jpg" />
                 </div>
                 <div className="item">
                     <div>
@@ -117,7 +156,7 @@ function Aerospace() {
                             Rockets For Schools
                         </a>
                     </div>
-                    <img src="r4s-team.jpg" />
+                    <img src="rocket-launch.jpg" />
                 </div>
                 <div className="item">
                     <div>
@@ -142,34 +181,6 @@ function Aerospace() {
                         </a>
                     </div>
                     <img src="arc.jpg" />
-                </div>
-                <div className="item">
-                    <div>
-                        <h2>Jr. L1 Certification</h2>
-                        <p>
-                            Following the Rockets For Schools competition, I
-                            began getting my Jr. L1 certification, as our mentor
-                            had just offered to help anyone who would be
-                            interested. Upon the completion of this
-                            certification, I will be able to launch high-powered
-                            rockets. To get certified, you must successfully
-                            construct, launch, and recover a high-powered
-                            rocket. I am currently in the process of
-                            constructing a fiberglass 54mm "Alien Interceptor"
-                            for this certification. Once I turn 18 in December,
-                            I will also be able to reuse this rocket to get my
-                            L2 certification, allowing me to fly on even more
-                            powerful motors.
-                        </p>
-                        <a
-                            href="https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification-procedures/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            NAR L1 Certification Procedures
-                        </a>
-                    </div>
-                    <img src="l1fillet.jpg" />
                 </div>
             </div>
         </div>

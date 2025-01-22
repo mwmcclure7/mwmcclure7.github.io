@@ -15,6 +15,7 @@ function Volunteering() {
                         in 2023.
                     </p>
                 </div>
+                <img src="nhscertificate.jpg" />
             </div>
             <div className="list">
                 <div className="item">

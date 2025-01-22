@@ -70,6 +70,39 @@ function Edge() {
             <div className="list">
                 <div className="item">
                     <div>
+                        <h2>Mustang Scholar</h2>
+                        <p>
+                            The Mustang Scholar is a website that we are
+                            currently developing to provide an all-in-one
+                            platform for students to learn about all of the
+                            courses and clubs at our highschool. Currently,
+                            information about our school's courses can be found
+                            in a 100 page document, and our clubs can be found
+                            in a 150 row spreadsheet. We are working to make
+                            this information more accessible to students by
+                            creating a website that will allow students to
+                            search for courses and clubs based on their
+                            interests. We are also incorporating LLM based
+                            recommendations via a chatbot with dynamic access to
+                            course and club information, as well as a dedicated
+                            "recommendations" page. The website will also
+                            include a feature that will allow students to create
+                            a schedule for the upcoming school year. This
+                            project is still in development, but we are excited
+                            to see the impact it will have on our school
+                            community.
+                        </p>
+                        <a
+                            href="https://github.com/NorthvilleEDGE/Mustang-Scholar"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Repository
+                        </a>
+                    </div>
+                </div>
+                <div className="item">
+                    <div>
                         <h2>Interactive Trail Signage</h2>
                         <p>
                             The trail signage project was one of the first
@@ -92,6 +125,22 @@ function Edge() {
                             more enjoyable experience. By the end of the
                             project, we had hung 20 signs throughout the park.
                         </p>
+                        <div className="links">
+                            <a
+                                href="https://northvilleedge.github.io/EDGE-Cartographer/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                EDGE Cartographer Website
+                            </a>
+                            <a
+                                href="https://github.com/NorthvilleEDGE/EDGE-Cartographer"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                        </div>
                     </div>
                     <img src="signontree.jpg" />
                 </div>
@@ -144,9 +193,7 @@ function Edge() {
                         when the box closes, eliminating any bacteria on the
                         phones. After prototyping and testing our concept, we
                         learned that it was indeed effective at killing
-                        bacteria. So, we built a final prototype and placed it
-                        in the school's main office for students and staff to
-                        use.
+                        bacteria.
                     </p>
                 </div>
                 <img src="sanitationbox.jpg" />

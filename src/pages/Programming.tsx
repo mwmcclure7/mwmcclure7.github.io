@@ -47,19 +47,28 @@ function Programming() {
                             personalized and effective manner. Through this
                             project, I gained critical experience in developing
                             a full-stack web application, utilizing technologies
-                            such as React, Django, PostgreSQL, the OpenAI API,
-                            and Stripe. I was also able to apply these web
-                            development skills to various other projects, such
-                            as the Northville Aerospace website, and even the
-                            website you are currently on.
+                            such as React, Django, PostgreSQL, and the xAI API.
+                            I was also able to apply these web development
+                            skills to various other projects, such as the
+                            Northville Aerospace website, and even the website
+                            you are currently on.
                         </p>
-                        <a
-                            href="https://softwaresensei.ai/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            Sensei.AI Website
-                        </a>
+                        <div className="links">
+                            <a
+                                href="https://softwaresensei.ai/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Sensei.AI Website
+                            </a>
+                            <a
+                                href="https://github.com/mwmcclure7/sensei"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                        </div>
                     </div>
                     <img src="sensei4.png" style={{ height: "300px" }} />
                 </div>
@@ -133,6 +142,29 @@ function Programming() {
                 </div>
                 <div className="item">
                     <div>
+                        <h2>Mustang Scholar</h2>
+                        <p>
+                            The Mustang Scholar is a project I am currently
+                            developing alongside the EDGE club that is designed
+                            to centralize information about our high school's
+                            courses and clubs. Currently, course details are
+                            buried in a 100 page document, and club information
+                            is in a 150 row spreadsheet. Our goal is to make
+                            this data easily accessible by allowing students to
+                            search for courses and clubs based on their
+                            interests. We're also integrating LLM-based
+                            recommendations through a chatbot and a dedicated
+                            recommendations page. This website was built with
+                            React, and uses the Google Sheets API to pull data
+                            from the spreadsheets. We also used the Google Apps
+                            Script to write a program that converts the course
+                            catalog document into a spreadsheet that can be
+                            easily interpreted by the website.
+                        </p>
+                    </div>
+                </div>
+                <div className="item">
+                    <div>
                         <h2>EDGE Cartographer</h2>
                         <p>
                             The EDGE Cartographer was part of the Interactive
@@ -169,6 +201,34 @@ function Programming() {
                         src="edgecartographer.png"
                         style={{ width: "215px", minWidth: "215px" }}
                     />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Free Time Finder</h2>
+                        <p>
+                            The Free Time Finder is a web application I created
+                            to simplify group scheduling by helping teams find
+                            the most convenient meeting times based on
+                            everyone's availability. I created this website as a
+                            way to test the capabilities of Cursor, an AI
+                            integrated IDE. I was able to create this website in
+                            a single weekend with the help of Cursor, showing me
+                            the already substantial impact of AI within software
+                            development. I did not end up publishing this
+                            website, as I did not want to pay for a hosting
+                            service, database, domain, etc. So, published it to
+                            GitHub under an MIT license so that others could
+                            build on it or publish it themselves if they wanted.
+                        </p>
+                        <a
+                            href="https://github.com/mwmcclure7/Free-Time-Finder/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Repository
+                        </a>
+                    </div>
+                    <img src="freetimefinder.png" />
                 </div>
                 <div className="item">
                     <div>
