@@ -10,7 +10,7 @@ function Home() {
                     My ultimate goal in life is to have the greatest positive
                     impact on humanity that I possibly can. I believe that the
                     most effective way to achieve this goal is to advance
-                    artificial intelligence. By contributing to AI development,
+                    artificial intelligence ethically. By contributing to AI development,
                     it is my hope that I can steer the future of this technology
                     in a direction that benefits humanity as a whole. As someone
                     who has always questioned the nature of existence, I also

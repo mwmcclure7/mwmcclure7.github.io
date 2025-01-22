@@ -57,8 +57,7 @@ function Interests() {
                         <p>
                             Mountain biking has been a fundamental part of my
                             wellbeing during my time in high school. I began as
-                            a novice rider, eventually racing at a national
-                            level as my love for the sport grew.
+                            a Novice rider as a freshman and grew into a Varsity racer by my senior year.
                         </p>
                     </div>
                     <img src="mtb1.png" />
@@ -94,7 +93,7 @@ function Interests() {
                         <h2>Programming</h2>
                         <p>
                             I have had a passion for programming from the time I
-                            was in first grade. I have since developed projects
+                            was in first grade. I have since developed a multitude of projects
                             and am proficient in various languages and
                             frameworks.
                         </p>
@@ -115,6 +114,7 @@ function Interests() {
                     <img src="ThreadedTichuRender.JPG" />
                 </div>
                 <div className="section" onClick={() => window.location.href = '#volunteering'}>
+                    <img src="volunteering.jpg" />
                     <div>
                         <h2>Volunteering</h2>
                         <p>
@@ -124,7 +124,6 @@ function Interests() {
                             this goal.
                         </p>
                     </div>
-                    <img src="volunteering.jpg" />
                 </div>
             </div>
         </div>
