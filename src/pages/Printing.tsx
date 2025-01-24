@@ -66,6 +66,23 @@ function Printing() {
                 </div>
                 <div className="item">
                     <div>
+                        <h2>Tekko</h2>
+                        <p>
+                            Tekko is another weapon in Tokushinryu Kobudo. This
+                            was one of my first practical prints using nylon, as
+                            I wanted them to be durable. I also designed them to
+                            have a slot through the grip so I could wrap it in
+                            paracord. The final product was incredibly
+                            lightweight, being hollow and made of plastic,
+                            compared to the metal or wood alternatives. I then
+                            printed around five more copies and donated them to
+                            the dojo.
+                        </p>
+                    </div>
+                    <img src="tekko.jpg" />
+                </div>
+                <div className="item">
+                    <div>
                         <h2>Money Box</h2>
                         <p>
                             At the creation of this project, I did not have a
@@ -137,19 +154,16 @@ function Printing() {
                 </div>
                 <div className="item">
                     <div>
-                        <h2>Belt Loops</h2>
+                        <h2>Northville Infinity Cube</h2>
                         <p>
-                            This was a gift to Sensei Paul after he was promoted
-                            to a 7th degree black belt. We would often joke
-                            about how the "grand masters" of karate never
-                            actually do anything — they just sit on the
-                            sidelines with their thumbs in their belts. So as a
-                            joke, I designed and 3D printed "belt loops," so his
-                            thumbs had a more comfortable and ergonomic place to
-                            rest now that he had achieved a new level of rank.
+                            This cube was a way of fundraising for EDGE. I found
+                            a design for an infinity cube, and modified it to
+                            have Northville High School elements on it. We then
+                            sold these cubes, along with other 3D printed items,
+                            to raise money for the club.
                         </p>
                     </div>
-                    <img src="BeltLoopRender.JPG" />
+                    <img src="cube.jpg" />
                 </div>
                 <div className="item">
                     <div>
@@ -163,6 +177,35 @@ function Printing() {
                         </p>
                     </div>
                     <img src="edgecase.jpg" />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Starship</h2>
+                        <p>
+                            This was a project I printed for fun. I found a
+                            Starship design online, printed it out, and
+                            assembled it. Admittedly, I did not do anything to
+                            modify the design, but I figured it wouldn't hurt to
+                            include it here.
+                        </p>
+                    </div>
+                    <img src="starship.jpg" style={{ width: "150px", minWidth: "0" }} />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Belt Loops</h2>
+                        <p>
+                            This was a gift to Sensei Paul after he was promoted
+                            to a 7th degree black belt. We would often joke
+                            about how the "grand masters" of karate never
+                            actually do anything — they just sit on the
+                            sidelines with their thumbs in their belts. So as a
+                            joke, I designed and 3D printed "belt loops," so his
+                            thumbs had a more comfortable and ergonomic place to
+                            rest now that he had achieved a new level of rank.
+                        </p>
+                    </div>
+                    <img src="BeltLoopRender.JPG" />
                 </div>
                 <div className="item">
                     <div>
