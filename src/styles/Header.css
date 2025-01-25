@@ -69,6 +69,11 @@
     align-self: left;
 }
 
+.header .media img {
+    height: 24px;
+    filter: brightness(0) invert(1);
+}
+
 .media img {
     height: 25px;
     transition: var(--transition1);

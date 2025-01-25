@@ -40,6 +40,13 @@ function Header() {
                         <img src="/github.svg" />
                     </a>
                     <a
+                        href="https://x.com/mwmcclure7"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <img src="/X_logo.svg" />
+                    </a>
+                    <a
                         href="https://www.instagram.com/mwmcclure7/"
                         target="_blank"
                         rel="noopener noreferrer"
