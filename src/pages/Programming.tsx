@@ -104,6 +104,45 @@ function Programming() {
                 </div>
                 <div className="item">
                     <div>
+                        <h2>Mustang Scholar</h2>
+                        <p>
+                            The Mustang Scholar is a project I am currently
+                            developing alongside the EDGE club that is designed
+                            to centralize information about our high school's
+                            courses and clubs. Currently, course details are
+                            buried in a 100 page document, and club information
+                            is in a 150 row spreadsheet. Our goal is to make
+                            this data easily accessible by allowing students to
+                            search for courses and clubs based on their
+                            interests. We're also integrating LLM-based
+                            recommendations through a chatbot and a dedicated
+                            recommendations page. This website was built with
+                            React, and uses the Google Sheets API to pull data
+                            from the spreadsheets. We also used the Google Apps
+                            Script to write a program that converts the course
+                            catalog document into a spreadsheet that can be
+                            easily interpreted by the website.
+                        </p>
+                        <div className="links">
+                            <a
+                                href="https://northvilleedge.github.io/Mustang-Scholar/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Mustang Scholar Website (Beta)
+                            </a>
+                            <a
+                                href="https://github.com/NorthvilleEDGE/Mustang-Scholar"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div className="item">
+                    <div>
                         <h2>Northville Aerospace Website</h2>
                         <p>
                             The Northville Aerospace website was a project I
@@ -139,29 +178,6 @@ function Programming() {
                         src="aerospacewebsite.png"
                         style={{ height: "300px" }}
                     />
-                </div>
-                <div className="item">
-                    <div>
-                        <h2>Mustang Scholar</h2>
-                        <p>
-                            The Mustang Scholar is a project I am currently
-                            developing alongside the EDGE club that is designed
-                            to centralize information about our high school's
-                            courses and clubs. Currently, course details are
-                            buried in a 100 page document, and club information
-                            is in a 150 row spreadsheet. Our goal is to make
-                            this data easily accessible by allowing students to
-                            search for courses and clubs based on their
-                            interests. We're also integrating LLM-based
-                            recommendations through a chatbot and a dedicated
-                            recommendations page. This website was built with
-                            React, and uses the Google Sheets API to pull data
-                            from the spreadsheets. We also used the Google Apps
-                            Script to write a program that converts the course
-                            catalog document into a spreadsheet that can be
-                            easily interpreted by the website.
-                        </p>
-                    </div>
                 </div>
                 <div className="item">
                     <div>

@@ -92,13 +92,22 @@ function Edge() {
                             to see the impact it will have on our school
                             community.
                         </p>
-                        <a
-                            href="https://github.com/NorthvilleEDGE/Mustang-Scholar"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            GitHub Repository
-                        </a>
+                        <div className="links">
+                            <a
+                                href="https://northvilleedge.github.io/Mustang-Scholar/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Mustang Scholar Website (Beta)
+                            </a>
+                            <a
+                                href="https://github.com/NorthvilleEDGE/Mustang-Scholar"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                        </div>
                     </div>
                 </div>
                 <div className="item">
