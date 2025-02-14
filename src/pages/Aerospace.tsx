@@ -3,6 +3,7 @@ import Carousel from "../components/Carousel";
 
 function Aerospace() {
     const images = [
+        "aerospace_magazine.jpg",
         "senseidronelaunch.jpg",
         "senseilaunch.jpg",
         "senseirecovery.jpg",
@@ -44,9 +45,9 @@ function Aerospace() {
                         classes, robotics, and personal projects, from machining
                         parts of the rocket to managing the software and
                         electronics for the payloads. Our club was lucky to have
-                        an amazing mentor, Andrew Brown, who was able to guide
+                        a great mentor, Andrew Brown, who was able to guide
                         us through high-quality rocket construction, and even
-                        helped many of us get our certifications for high
+                        helped many of us obtain our certifications for high
                         powered rocketry. I was also able to apply the
                         web-development skills I gained from creating Sensei.AI
                         to create a website for this club.
@@ -57,7 +58,14 @@ function Aerospace() {
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            Northville Aerospace
+                            Northville Aerospace Website
+                        </a>
+                        <a
+                            href="https://github.com/NHSAerospace/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            GitHub Organization
                         </a>
                     </div>
                 </div>
@@ -79,7 +87,7 @@ function Aerospace() {
                             certification.
                         </p>
                         <a
-                            href="https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification-procedures/"
+                            href="https://www.nar.org/HPRCertification"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -96,15 +104,15 @@ function Aerospace() {
                         <h2>NASA Student Launch Initiative</h2>
                         <p>
                             After placing second in Rockets For Schools in 2024,
-                            we were invited to apply to compete in the NASA
+                            we were one of less than 20 highschool teams invited to compete in the NASA
                             Student Launch Initiative. This competition is a
                             year-long project where we design, construct, and
                             launch a high-powered rocket with a scientific
                             payload. Throughout the process, we document our
                             progress through various technical reports, as
                             linked below, and presentations to engineers at
-                            NASA. We were one of less than twenty high school
-                            teams invited to compete throughout the country.
+                            NASA. Along with assisting with rocket construction, I was responsible for the software and
+                            electronics of the payload, which records rocket telemetry data and transmits it to the control station via a LoRaWAN radio. 
                         </p>
                         <div className="links">
                             <a
@@ -115,11 +123,18 @@ function Aerospace() {
                                 Project Documentation
                             </a>
                             <a
+                                href="https://github.com/NHSAerospace/NASA-SLI-Payload/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                            <a
                                 href="https://www.nasa.gov/learning-resources/nasa-student-launch/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                NASA Student Launch Initiative
+                                NASA SLI
                             </a>
                         </div>
                     </div>
@@ -133,7 +148,7 @@ function Aerospace() {
                             competitors in our class construct and launch an L2
                             high powered rocket. Competitors must also design
                             and construct a scientific payload that will be
-                            launched and recovered with the rocked. In 2024, our
+                            launched and recovered with the rocket. In 2024, our
                             payload measured the tensile of strength of two
                             different metals using the rocket's acceleration.
                             Along with assisting with the construction of the
@@ -142,19 +157,28 @@ function Aerospace() {
                             consisted of an Arduino Nano, an accelerometer, an
                             altimeter, a battery, and wires that would measure
                             the electrical continuity of the metal being tested.
-                            This allowed us to determine at what acceleration
-                            the metal broke, and therefore backcalculate the
-                            tensile strength of the metal. We placed second in
-                            this competition, and where therefore invited to
-                            apply to the NASA Student Launch Initiative.
+                            This allowed us to determine the acceleration when
+                            the metal broke and calculate the tensile strength
+                            of the metal. We placed second in this competition
+                            and were invited to apply to the NASA Student Launch
+                            Initiative.
                         </p>
-                        <a
-                            href="https://www.rockets4schools.org/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            Rockets For Schools
-                        </a>
+                        <div className="links">
+                            <a
+                                href="https://www.rockets4schools.org/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Rockets For Schools
+                            </a>
+                            <a
+                                href="https://github.com/NHSAerospace/AerospaceTensileTester"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                        </div>
                     </div>
                     <img src="rocket-launch.jpg" />
                 </div>
