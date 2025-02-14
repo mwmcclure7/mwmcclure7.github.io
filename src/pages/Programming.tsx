@@ -106,7 +106,7 @@ function Programming() {
                     <div>
                         <h2>Mustang Scholar</h2>
                         <p>
-                            The Mustang Scholar is a project I am currently
+                            Mustang Scholar is a project I am currently
                             developing alongside the EDGE club that is designed
                             to centralize information about our high school's
                             courses and clubs. Currently, course details are
@@ -125,11 +125,11 @@ function Programming() {
                         </p>
                         <div className="links">
                             <a
-                                href="https://northvilleedge.github.io/Mustang-Scholar/"
+                                href="https://mustangscholar.onrender.com/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                Mustang Scholar Website (Beta)
+                                Mustang Scholar Website
                             </a>
                             <a
                                 href="https://github.com/NorthvilleEDGE/Mustang-Scholar"
@@ -140,6 +140,40 @@ function Programming() {
                             </a>
                         </div>
                     </div>
+                    <img src="mustangscholar.png" style={{ height: "320px" }} />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>Cotempus</h2>
+                        <p>
+                            Cotempus is a web application I created
+                            to simplify group scheduling by helping teams find
+                            the most convenient meeting times based on
+                            everyone's availability. I created this website as a
+                            way to test the capabilities of Cursor, an AI
+                            integrated IDE. I was able to create this website in
+                            a single weekend with the help of Cursor, showing me
+                            the already substantial impact of AI within software
+                            development.
+                        </p>
+                        <div className="links">
+                            <a
+                                href="https://cotempus.onrender.com/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Cotempus Website
+                            </a>
+                            <a
+                                href="https://github.com/mwmcclure7/Cotempus/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                GitHub Repository
+                            </a>
+                        </div>
+                    </div>
+                    <img src="cotempus.png" style={{ height: "400px" }} />
                 </div>
                 <div className="item">
                     <div>
@@ -217,34 +251,6 @@ function Programming() {
                         src="edgecartographer.png"
                         style={{ width: "215px", minWidth: "215px" }}
                     />
-                </div>
-                <div className="item">
-                    <div>
-                        <h2>Free Time Finder</h2>
-                        <p>
-                            The Free Time Finder is a web application I created
-                            to simplify group scheduling by helping teams find
-                            the most convenient meeting times based on
-                            everyone's availability. I created this website as a
-                            way to test the capabilities of Cursor, an AI
-                            integrated IDE. I was able to create this website in
-                            a single weekend with the help of Cursor, showing me
-                            the already substantial impact of AI within software
-                            development. I did not end up publishing this
-                            website, as I did not want to pay for a hosting
-                            service, database, domain, etc. So, published it to
-                            GitHub under an MIT license so that others could
-                            build on it or publish it themselves if they wanted.
-                        </p>
-                        <a
-                            href="https://github.com/mwmcclure7/Free-Time-Finder/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            GitHub Repository
-                        </a>
-                    </div>
-                    <img src="freetimefinder.png" />
                 </div>
                 <div className="item">
                     <div>

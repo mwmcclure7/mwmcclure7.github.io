@@ -94,11 +94,11 @@ function Edge() {
                         </p>
                         <div className="links">
                             <a
-                                href="https://northvilleedge.github.io/Mustang-Scholar/"
+                                href="https://mustangscholar.onrender.com/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                Mustang Scholar Website (Beta)
+                                Mustang Scholar Website
                             </a>
                             <a
                                 href="https://github.com/NorthvilleEDGE/Mustang-Scholar"
