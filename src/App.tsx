@@ -40,16 +40,13 @@ function App() {
                         <Route path="/interests" element={<Interests />} />
                         <Route path="/edge" element={<Edge />} />
                         <Route path="/sensei" element={<Sensei />} />
-                        <Route path="/karate" element={<Karate />} />
-                        <Route path="/mtb" element={<Mtb />} />
+                        <Route path="/programming" element={<Programming />} />
                         <Route path="/aerospace" element={<Aerospace />} />
                         <Route path="/robotics" element={<Robotics />} />
-                        <Route path="/programming" element={<Programming />} />
                         <Route path="/printing" element={<Printing />} />
-                        <Route
-                            path="/volunteering"
-                            element={<Volunteering />}
-                        />
+                        <Route path="/karate" element={<Karate />} />
+                        <Route path="/mtb" element={<Mtb />} />
+                        <Route path="/volunteering" element={<Volunteering />} />
                     </Routes>
                     <Footer />
                 </div>

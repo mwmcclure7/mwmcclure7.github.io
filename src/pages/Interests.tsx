@@ -39,6 +39,57 @@ function Interests() {
                     </div>
                     <img src="sensei-screenshot.png" />
                 </div>
+                <div className="section" onClick={() => window.location.href = '#programming'}>
+                    <img src="pong.png" />
+                    <div>
+                        <h2>Programming</h2>
+                        <p>
+                            I have had a passion for programming from the time I
+                            was in first grade. I have since developed a multitude of projects
+                            and am proficient in various languages and
+                            frameworks.
+                        </p>
+                    </div>
+                </div>
+                <div className="section" onClick={() => window.location.href = '#aerospace'}>
+                    <div>
+                        <h2>Aerospace</h2>
+                        <p>
+                            I joined the NHS Aerospace club in my junior year
+                            looking to expand my technical knowledge into
+                            rocketry. Since then, I have competed in various
+                            national competitions, including ARC, Rockets for
+                            Schools, and NASA SLI.
+                        </p>
+                    </div>
+                    <img src="r4s-team.jpg" />
+                </div>
+                <div className="section" onClick={() => window.location.href = '#robotics'}>
+                    <img src="robotics-driving.jpg" />
+                    <div>
+                        <h2>Robotics</h2>
+                        <p>
+                            I was accepted onto my high school robotics team as
+                            a freshman. Afterwards, I was elected as the Design
+                            Lead (2023), Driver (2023), and Software Lead
+                            (2024), throughout my time on the team.
+                        </p>
+                    </div>
+                </div>
+                <div className="section" onClick={() => window.location.href = '#printing'}>
+                    <div>
+                        <h2>3D Printing</h2>
+                        <p>
+                            After being immersed in the world of CAD as a
+                            freshman, I used this knowledge to create numerous
+                            3D printed projects. I am now proficient in
+                            SolidWorks and Onshape, as well as familiar with the
+                            various materials and processes involved in additive
+                            manufacturing.
+                        </p>
+                    </div>
+                    <img src="ThreadedTichuRender.JPG" />
+                </div>
                 <div className="section" onClick={() => window.location.href = '#karate'}>
                     <img src="karate-promotion.jpg" />
                     <div>
@@ -61,57 +112,6 @@ function Interests() {
                         </p>
                     </div>
                     <img src="mtb1.png" />
-                </div>
-                <div className="section" onClick={() => window.location.href = '#aerospace'}>
-                    <img src="r4s-team.jpg" />
-                    <div>
-                        <h2>Aerospace</h2>
-                        <p>
-                            I joined the NHS Aerospace club in my junior year
-                            looking to expand my technical knowledge into
-                            rocketry. Since then, I have competed in various
-                            national competitions, including ARC, Rockets for
-                            Schools, and NASA SLI.
-                        </p>
-                    </div>
-                </div>
-                <div className="section" onClick={() => window.location.href = '#robotics'}>
-                    <div>
-                        <h2>Robotics</h2>
-                        <p>
-                            I was accepted onto my high school robotics team as
-                            a freshman. Afterwards, I was elected as the Design
-                            Lead (2023), Driver (2023), and Software Lead
-                            (2024), throughout my time on the team.
-                        </p>
-                    </div>
-                    <img src="robotics-driving.jpg" />
-                </div>
-                <div className="section" onClick={() => window.location.href = '#programming'}>
-                    <img src="pong.png" />
-                    <div>
-                        <h2>Programming</h2>
-                        <p>
-                            I have had a passion for programming from the time I
-                            was in first grade. I have since developed a multitude of projects
-                            and am proficient in various languages and
-                            frameworks.
-                        </p>
-                    </div>
-                </div>
-                <div className="section" onClick={() => window.location.href = '#printing'}>
-                    <div>
-                        <h2>3D Printing</h2>
-                        <p>
-                            After being immersed in the world of CAD as a
-                            freshman, I used this knowledge to create numerous
-                            3D printed projects. I am now proficient in
-                            SolidWorks and Onshape, as well as familiar with the
-                            various materials and processes involved in additive
-                            manufacturing.
-                        </p>
-                    </div>
-                    <img src="ThreadedTichuRender.JPG" />
                 </div>
                 <div className="section" onClick={() => window.location.href = '#volunteering'}>
                     <img src="volunteering.jpg" />

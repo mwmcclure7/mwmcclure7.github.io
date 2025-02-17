@@ -15,12 +15,12 @@ function Header() {
                     <div className="dropdown">
                         <a href="#edge">EDGE</a>
                         <a href="#sensei">Sensei.AI</a>
-                        <a href="#karate">Isshinryu Karate</a>
-                        <a href="#mtb">Mountain Biking</a>
+                        <a href="#programming">Programming</a>
                         <a href="#aerospace">Aerospace</a>
                         <a href="#robotics">Robotics</a>
-                        <a href="#programming">Programming</a>
                         <a href="#printing">3D Printing</a>
+                        <a href="#karate">Isshinryu Karate</a>
+                        <a href="#mtb">Mountain Biking</a>
                         <a href="#volunteering">Volunteering</a>
                     </div>
                 </div>
