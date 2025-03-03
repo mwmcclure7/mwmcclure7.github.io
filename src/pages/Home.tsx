@@ -13,12 +13,12 @@ function Home() {
                     artificial intelligence ethically. By contributing to AI development,
                     it is my hope that I can steer the future of this technology
                     in a direction that benefits humanity as a whole. As someone
-                    who has always questioned the nature of existence, I also
+                    who has always questioned the nature of the universe, I also
                     believe that AI has the potential to answer complex
                     questions that our human minds are unable to comprehend. It
                     is my hope that some form of superintelligence will help us
-                    shed light on the complex questions that we have asked for
-                    centuries.
+                    shed light on the questions that humans have not yet
+                    been able to answer.
                 </p>
             </div>
         </div>

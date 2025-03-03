@@ -555,13 +555,13 @@ function Academics() {
                 </div>
                 <div className="item">
                     <div>
-                        <h2>Frankenstein Sculpture</h2>
+                        <h2>Frankenstein Model</h2>
                         <p>
-                            This sculpture was part of a project in AP
+                            This model was part of a project in AP
                             Literature where we had to create an art piece that
                             metaphorically represents a theme from Frankenstein.
                             Considering I have no artistic ability, I designed
-                            and 3D printed this sculpture. My teacher also
+                            and 3D printed this model. My teacher also
                             required that I record a time lapse video of the
                             design, which can be seen in the link below.
                         </p>
@@ -571,7 +571,7 @@ function Academics() {
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                Sculpture CAD
+                                Model CAD
                             </a>
                             <a
                                 href="https://drive.google.com/file/d/1BX4dBaQjBHLBkDKtAD5AKqMeJi-Rnj2-/view?usp=sharing"
@@ -583,6 +583,34 @@ function Academics() {
                         </div>
                     </div>
                     <img src="Frankenstein.jpg" />
+                </div>
+                <div className="item">
+                    <div>
+                        <h2>The Awakening Model</h2>
+                        <p>
+                            This was another project in AP
+                            Literature where we had to create a symbolic art piece from a book.
+                            Again, I designed and 3D printed a model, as I like to try to take
+                            an artistic project and make it somewhat technical.
+                        </p>
+                        <div className="links">
+                            <a
+                                href="https://cad.onshape.com/documents/e396410e81fa902cf427bf6b/w/ab74ebaaece46c380cecc7a6/e/20030cd7b3a8430aea41a017?renderMode=0&uiState=67c52d6a15e7b06dc4b236aa"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Model CAD
+                            </a>
+                            <a
+                                href="https://drive.google.com/file/d/1RKkGNGNKKngm7qA-cOJVZUXixQGk3YuB/view?usp=sharing"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Time Lapse Video
+                            </a>
+                        </div>
+                    </div>
+                    <img src="awakeningmodel.jpg" />
                 </div>
                 <div className="item">
                     <div>
