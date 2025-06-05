@@ -89,33 +89,33 @@ function Academics() {
                             <tbody>
                                 <tr>
                                     <td>Honors Calculus 2</td>
-                                    <td>(In progress)</td>
+                                    <td>A</td>
                                 </tr>
                                 <tr>
                                     <td>AP Biology</td>
-                                    <td>(In progress)</td>
+                                    <td>A</td>
                                 </tr>
                                 <tr>
                                     <td>AP Statistics</td>
-                                    <td>(In progress)</td>
+                                    <td>A+</td>
                                 </tr>
                                 <tr>
                                     <td>AP Computer Science</td>
-                                    <td>(In progress)</td>
+                                    <td>A</td>
                                 </tr>
                                 <tr>
                                     <td>IB Chemistry-HL-Y2</td>
-                                    <td>(In progress)</td>
+                                    <td>A</td>
                                 </tr>
                                 <tr>
                                     <td>
                                         AP English Literature and Composition
                                     </td>
-                                    <td>(In progress)</td>
+                                    <td>A</td>
                                 </tr>
                                 <tr>
                                     <td>AP Physics (C)</td>
-                                    <td>(In progress)</td>
+                                    <td>A</td>
                                 </tr>
                             </tbody>
                         </table>
