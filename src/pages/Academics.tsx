@@ -2,7 +2,7 @@ import "../styles/Interest.css";
 import Carousel from "../components/Carousel";
 
 function Academics() {
-    const awards = ["commencement.jpg", "commendedregognition.jpg", "gpa2024.jpg", "gpa2023.jpg", "apaward2024.jpeg"];
+    const awards = ["Presidents Education.jpg", "Academic Excellence 2025.jpg", "Comp Sci Award.jpg", "Science Award.jpg", "Math Award.jpg", "commencement.jpg", "commendedregognition.jpg", "gpa2024.jpg", "gpa2023.jpg", "apaward2024.jpeg"];
 
     return (
         <div className="interest">
