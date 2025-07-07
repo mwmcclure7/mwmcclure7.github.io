@@ -61,13 +61,13 @@ function Programming() {
                             >
                                 Sensei.AI Website
                             </a>
-                            <a
+                            {/* <a
                                 href="https://github.com/mwmcclure7/sensei"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
                                 GitHub Repository
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                     <img src="sensei4.png" style={{ height: "300px" }} />
@@ -106,15 +106,15 @@ function Programming() {
                     <div>
                         <h2>Mustang Scholar</h2>
                         <p>
-                            Mustang Scholar is a project I am currently
-                            developing alongside the EDGE club that is designed
+                            Mustang Scholar is a project I developed
+                            alongside the EDGE club that is designed
                             to centralize information about our high school's
-                            courses and clubs. Currently, course details are
+                            courses and clubs. In the past, course details had been
                             buried in a 100 page document, and club information
-                            is in a 150 row spreadsheet. Our goal is to make
+                            was in a 150 row spreadsheet. Our goal was to make
                             this data easily accessible by allowing students to
                             search for courses and clubs based on their
-                            interests. We're also integrating LLM-based
+                            interests. We also integrated LLM-based
                             recommendations through a chatbot and a dedicated
                             recommendations page. This website was built with
                             React, and uses the Google Sheets API to pull data

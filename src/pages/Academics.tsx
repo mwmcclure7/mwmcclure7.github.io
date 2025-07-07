@@ -384,9 +384,9 @@ function Academics() {
                         </table>
                     </div>
                 </div>
+                <h3>AP Tests</h3>
                 <div className="year">
                     <div>
-                        <h3>AP Tests</h3>
                         <h4>Junior Year</h4>
                         <table>
                             <thead>
@@ -419,11 +419,52 @@ function Academics() {
                             </tbody>
                         </table>
                     </div>
-                    <img
-                        src="4.0.svg"
-                        style={{ width: "45%", marginTop: "100px" }}
-                    />
+                    <div>
+                        <h4>Senior Year</h4>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Course Name</th>
+                                    <th>Score</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>AP Biology</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Calculus BC</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Computer Science A</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>AP English Literature and Composition</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Physics C: Electricity and Magnetism</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Physics C: Mechanics</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>AP Statistics</td>
+                                    <td>5</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
+                <img
+                    src="4.0.svg"
+                    style={{ width: "45%", marginTop: "100px" }}
+                />
             </div>
             <Carousel images={awards} />
             <div className="list">

@@ -72,25 +72,17 @@ function Edge() {
                     <div>
                         <h2>Mustang Scholar</h2>
                         <p>
-                            The Mustang Scholar is a website that we are
-                            currently developing to provide an all-in-one
+                            The Mustang Scholar is an all-in-one
                             platform for students to learn about all of the
-                            courses and clubs at our highschool. Currently,
-                            information about our school's courses can be found
-                            in a 100 page document, and our clubs can be found
-                            in a 150 row spreadsheet. We are working to make
-                            this information more accessible to students by
-                            creating a website that will allow students to
-                            search for courses and clubs based on their
-                            interests. We are also incorporating LLM based
+                            courses and clubs at our highschool. In the past,
+                            information about our school's courses could be found
+                            in a 100 page document, and our clubs could be found
+                            in a 150 row spreadsheet. We are incorporated LLM based
                             recommendations via a chatbot with dynamic access to
                             course and club information, as well as a dedicated
-                            "recommendations" page. The website will also
-                            include a feature that will allow students to create
-                            a schedule for the upcoming school year. This
-                            project is still in development, but we are excited
-                            to see the impact it will have on our school
-                            community.
+                            "recommendations" page. The website also
+                            includes a feature that allows students to create
+                            a schedule for the upcoming school year.
                         </p>
                         <div className="links">
                             <a
@@ -109,6 +101,7 @@ function Edge() {
                             </a>
                         </div>
                     </div>
+                    <img src="mustangscholar.png" style={{ height: "320px" }} />
                 </div>
                 <div className="item">
                     <div>

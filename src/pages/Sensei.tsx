@@ -45,13 +45,13 @@ function Sensei() {
                         >
                             Sensei.AI Website
                         </a>
-                        <a
+                        {/* <a
                                 href="https://github.com/mwmcclure7/sensei"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
                                 GitHub Repository
-                        </a>
+                        </a> */}
                     </div>
                 </div>
                 <img src="sensei-logo.svg" />

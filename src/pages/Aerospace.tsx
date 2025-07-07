@@ -112,7 +112,18 @@ function Aerospace() {
                             progress through various technical reports, as
                             linked below, and presentations to engineers at
                             NASA. Along with assisting with rocket construction, I was responsible for the software and
-                            electronics of the payload, which records rocket telemetry data and transmits it to the control station via a LoRaWAN radio. 
+                            electronics of the payload, which records rocket telemetry data and transmits it to the control station via a LoRaWAN radio.
+                        </p>
+                        <p>
+                            Below are the awards we received at the end of the competition:
+                            <ul>
+                                <li>3D Printing Award</li>
+                                <li>Second for Best-Looking Rocket Award</li>
+                                <li>First for Judge's Choice Award</li>
+                                <li>Second for Social Media Award</li>
+                                <li>Second for STEM Engagement Award</li>
+                                <li>Third for SLI Payload Design Award</li>
+                            </ul>
                         </p>
                         <div className="links">
                             <a
@@ -130,11 +141,11 @@ function Aerospace() {
                                 GitHub Repository
                             </a>
                             <a
-                                href="https://www.nasa.gov/learning-resources/nasa-student-launch/"
+                                href="https://www.nasa.gov/learning-resources/nasa-student-launch/current-teams/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                NASA SLI
+                                NASA SLI Awards
                             </a>
                         </div>
                     </div>
